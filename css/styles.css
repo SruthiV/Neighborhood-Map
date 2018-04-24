@@ -1,1 +1,33 @@
+body {
+    font-family: " 'Gamja Flower', cursive;", sans-serif;
+}
 
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0;
+    background-color: #4E4B5C !important;
+}
+
+.nav-title {
+    font-size: 20px;
+    color: #ffffff !important;
+}
+
+#map {
+    margin: 0;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: -4;
+}
+
+.list-box {
+    margin: 0;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+}
