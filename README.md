@@ -1,4 +1,14 @@
 # Neighborhood-Map
+### Live Demo:
+https://sruthiv.github.io/Neighborhood-Map/
+
+### APIs used:
+1. Google Maps API
+2. Foursquare API
+
+### Getting Started
+1. Download or Clone the project repository  
+2. Open `index.html`
 
 ### References:
 https://developer.foursquare.com/docs/api/getting-started  
