@@ -1,5 +1,5 @@
 body {
-    font-family: " 'Gamja Flower', cursive;", sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 .navbar {
@@ -11,6 +11,7 @@ body {
 .nav-title {
     font-size: 20px;
     color: #ffffff !important;
+    font-family: 'Raleway', sans-serif;
 }
 
 #map {
@@ -21,6 +22,8 @@ body {
     bottom: 0px;
     right: 0px;
     z-index: -4;
+    font-family: 'Raleway', sans-serif;
+
 }
 
 .list-box {
@@ -31,4 +34,6 @@ body {
     bottom: 0px;
     right: 0px;
     color: #4E4B5C;
+    font-family: 'Raleway', sans-serif;
+
 }
